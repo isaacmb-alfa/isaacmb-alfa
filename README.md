@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @isaacmb-alfa
+### 👋 Hi, I’m @isaacmb-alfa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-isaacmb-alfa/isaacmb-alfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+```javascript
+const isaac-alfa = {
+  pronouns: "he" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
+  tools: [React, Redux, Node, Vue, Jest],
+ challenge: "I am doing the #100DaysOfCode challenge Python"
+}
+```
