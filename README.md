@@ -12,7 +12,7 @@
 const isaac-alfa = {
   pronouns: "he" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
-  tools: [React, Redux, Node, Vue, Jest],
+  tools: [React, Redux, Node, Vue, Jest, Enzyme],
  challenge: "I am doing the #100DaysOfCode challenge Python"
 }
 ```
