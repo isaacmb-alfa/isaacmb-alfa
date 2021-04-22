@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="50"> A little more about me...
 
 ```javascript
-const isaac-alfa = {
+const isaacAlfa = {
   pronouns: "he" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
   tools: [React, Redux, Node, Vue, Jest, Enzyme],
