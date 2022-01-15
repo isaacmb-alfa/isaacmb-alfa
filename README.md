@@ -11,7 +11,7 @@
 ```javascript
 const isaacAlfa = {
   pronouns: "he" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, Laravel],
   tools: [React, Redux, Node, Vue, Jest, Enzyme],
  challenge: "I am doing the #100DaysOfCode challenge Python"
 }
