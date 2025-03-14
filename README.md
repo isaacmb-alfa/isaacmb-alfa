@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @isaacmb-alfa! <img src="https://imgur.com/6qXQEpq" width="60px"></h2>
+<h2> 👋 Hi, I’m @isaacmb-alfa! <video src="https://i.imgur.com/6qXQEpq.mp4" width="60px"></video></h2>
 
 - 👀 I’m interested in ... apply clean code to my projects.
 - 🌱 I’m currently learning ... Advanced React js. 
