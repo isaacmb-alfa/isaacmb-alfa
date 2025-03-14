@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @isaacmb-alfa! <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="60px"></h2>
+<h2> 👋 Hi, I’m @isaacmb-alfa! <img src="https://imgur.com/6qXQEpq" width="60px"></h2>
 
 - 👀 I’m interested in ... apply clean code to my projects.
 - 🌱 I’m currently learning ... Advanced React js. 
@@ -18,3 +18,4 @@ const isaacAlfa = {
 ```
 <hr/>
 <p><em>I am a front-end developer, passionate about making projects that meet the user's needs, I never stop learning new things. I would love to collaborate with more people who share my ideals.</em></p>
+
