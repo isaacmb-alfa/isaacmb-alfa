@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @isaacmb-alfa! <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" width="50px"></h2>
+<h2> 👋 Hi, I’m @isaacmb-alfa! <img src="[https://media.giphy.com/media/PiQejEf31116URju4V/source.gif](https://i.imgur.com/6qXQEpq.mp4)" width="60px"></h2>
 
 - 👀 I’m interested in ... apply clean code to my projects.
 - 🌱 I’m currently learning ... Advanced React js. 
