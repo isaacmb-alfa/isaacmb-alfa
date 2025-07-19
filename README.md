@@ -2,11 +2,11 @@
   <img src="./assets/Banner_Github.png" alt="Banner profesional" style="width:100%;max-width:900px;"/>
 </p>
 
-👋 ¡Hola, soy Isaac Manríquez!
+# 👋 ¡Hola, soy Isaac Manríquez!
+
+"_Cuando el código se oscurezca 🌑, cuando los logs griten desesperados 😱, cuando los tests fallen sin piedad ❌… ¡llámame! 😎_"
 
 🏗️ Arquitecto de Software
-
-Diseño como si fuera arte. Código como si fuera magia. Documentación... como si me pagaran.
 
 <!-- Badges sociales / stats -->
 <p align="center">
@@ -22,6 +22,7 @@ Diseño como si fuera arte. Código como si fuera magia. Documentación... como 
   <a href="https://twitter.com/@IsaacAlfa"><img src="https://img.shields.io/badge/Twitter-@IsaacAlfa-1DA1F2?logo=twitter&style=for-the-badge" /></a>
   <a href="mailto:isaacmanriquez.designer@gmail.com"><img src="https://img.shields.io/badge/Email-EnviarCorreo-red?logo=gmail&style=for-the-badge" /></a>
 </p>
+
 ## 🚀 Proyectos destacados
 
 
